@@ -1,0 +1,7 @@
+C:\Users\marco.marques\source\repos\exLinqFila\exLinqFila\bin\Debug\exLinqFila.exe.config
+C:\Users\marco.marques\source\repos\exLinqFila\exLinqFila\bin\Debug\exLinqFila.exe
+C:\Users\marco.marques\source\repos\exLinqFila\exLinqFila\bin\Debug\exLinqFila.pdb
+C:\Users\marco.marques\source\repos\exLinqFila\exLinqFila\obj\Debug\exLinqFila.csproj.AssemblyReference.cache
+C:\Users\marco.marques\source\repos\exLinqFila\exLinqFila\obj\Debug\exLinqFila.csproj.CoreCompileInputs.cache
+C:\Users\marco.marques\source\repos\exLinqFila\exLinqFila\obj\Debug\exLinqFila.exe
+C:\Users\marco.marques\source\repos\exLinqFila\exLinqFila\obj\Debug\exLinqFila.pdb

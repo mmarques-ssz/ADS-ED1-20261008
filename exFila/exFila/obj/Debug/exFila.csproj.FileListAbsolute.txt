@@ -1,0 +1,7 @@
+C:\Users\marco.marques\source\repos\exFila\exFila\bin\Debug\exFila.exe.config
+C:\Users\marco.marques\source\repos\exFila\exFila\bin\Debug\exFila.exe
+C:\Users\marco.marques\source\repos\exFila\exFila\bin\Debug\exFila.pdb
+C:\Users\marco.marques\source\repos\exFila\exFila\obj\Debug\exFila.csproj.AssemblyReference.cache
+C:\Users\marco.marques\source\repos\exFila\exFila\obj\Debug\exFila.csproj.CoreCompileInputs.cache
+C:\Users\marco.marques\source\repos\exFila\exFila\obj\Debug\exFila.exe
+C:\Users\marco.marques\source\repos\exFila\exFila\obj\Debug\exFila.pdb
